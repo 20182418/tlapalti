@@ -74,6 +74,10 @@ ul{
     flex:1;
     margin-left: 20 px;
  }
+ .nav-main{
+    background-color:white;
+    padding: 30px;
+ }
  /*SHOW CASE*/
  .showcase{
     width: 100%;
