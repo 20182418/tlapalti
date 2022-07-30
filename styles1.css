@@ -89,6 +89,18 @@ ul{
     align-items: center;
     justify-content: flex-end;
  }
+ .news{
+    background-color: gray;
+ }
+ .news p{
+    align-items: center;
+ }
+ .news h2{
+    padding-left: 450px;
+ }
+ .news a{
+    margin-left: 450px;
+ }
  .showcase p{
     color:#FFFFFF;
  }
