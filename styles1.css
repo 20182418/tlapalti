@@ -93,7 +93,7 @@ ul{
     background-color: gray;
  }
  .news p{
-    align-items: center;
+    padding-left:50px;
  }
  .news h2{
     padding-left: 450px;
