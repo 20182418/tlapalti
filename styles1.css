@@ -42,7 +42,7 @@ ul{
     font-size: 3rem;
     margin-left: 8px;
     -webkit-text-stroke: .7px #000000 ;
-    color: #BCD4E6;
+    color: #DFEDF8;
 }
 .nav-logo{
     width: 50px;
@@ -149,7 +149,7 @@ ul{
  aside .indice .list{
     display: block;
     margin-bottom: 10px;
-    color: #ADABA9;
+    color: #E0E0E0;
     justify-content: space-around;
  }
  aside .indice .list{
