@@ -9,7 +9,7 @@ const typed= new Typed('.typed',{
         '<i class="place">HUMANIDADES</i>',
         '<i class="place">PROGRESO</i>',
         '<i class="place">LIBERTAD</i>',
-        '<i class="place">LIBERTAD</i>',
+      
     ],
     stringsElement:'#cadenas-texto',
     typeSpeed: 80,
