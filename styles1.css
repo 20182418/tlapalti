@@ -83,7 +83,7 @@ ul{
     padding: 30px;
  }
  .nav-menu{
-   display: flex;
+   display: block;
    justify-content: space-around;
  }
  /*SHOW CASE*/
