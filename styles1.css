@@ -133,10 +133,10 @@ ul{
  input{
     outline: none;
     box-sizing: border-box;
-    height: 40px;
+    height: 60px;
     width: ;
     padding: 0 10px;
-    background: grey ;
+    background: #F8F8F8 ;
     color: white;
     border-radius: 50px;
     font-size: 20px;
