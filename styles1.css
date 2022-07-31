@@ -98,14 +98,14 @@ ul{
     padding-top:5px;
  }
  .news p{
-    padding-left:1px;
+    padding-left:0px;
     
  }
  .news h2{
-    padding-left: 300px;
+    padding-left: 200px;
  }
  .news a{
-    margin-left: 300px;
+    margin-left: 200px;
  }
  .showcase p{
     color:#FFFFFF;
