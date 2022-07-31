@@ -82,6 +82,10 @@ ul{
     background-color:white;
     padding: 30px;
  }
+ .nav-menu{
+   display: flex;
+   justify-content: space-around;
+ }
  /*SHOW CASE*/
  .showcase{
     width: 100%;
