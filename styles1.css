@@ -141,7 +141,7 @@ ul{
     color: gray;
     border-radius: 50px;
     font-size: 20px;
-    border: 1px solid #5DFCF2;
+    border: 1px solid #6E7070;
     transition: all .7s ease;
  }
 
@@ -155,7 +155,7 @@ ul{
     top: 0;
     width: 45px;
     height: 43px;
-    background: #0A0A0A;
+    background: #5DFCF2;
     line-height: 40px;
     border-radius:50%;
     text-align: center;
