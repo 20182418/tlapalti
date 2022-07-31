@@ -38,6 +38,10 @@ ul{
     padding: 20 px 0;
 }
 
+.btns i {
+    margin-top: 0;  
+}
+
 .titulologo{
     font-size: 3rem;
     margin-left: 8px;
