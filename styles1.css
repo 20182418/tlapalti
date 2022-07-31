@@ -90,9 +90,9 @@ ul{
     justify-content: flex-end;
  }
  .news{
-    background-color: gray;
+    background-color: #EDEBEB;
     padding-left:170px;
-    padding-right:100px;
+    padding-right:80px;
     margin-left:0px;
     width:100%;
     padding-top:5px;
