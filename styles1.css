@@ -137,7 +137,7 @@ ul{
     width: 0;
     padding: 0 10px;
     background: #F8F8F8 ;
-    color: white;
+    color: gray;
     border-radius: 50px;
     font-size: 20px;
     border: 1px solid #5DFCF2;
@@ -145,7 +145,7 @@ ul{
  }
 
 ::placeholder{
-    color: white;
+    color: gray;
  }
  .btns{
     margin-top: 8px;
