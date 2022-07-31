@@ -155,7 +155,7 @@ ul{
     line-height: 80px;
     border-radius:50%;
     text-align: center;
-    cursor:pointer;
+    cursor: pointer;
     transition: .5s;
  }
  .bnts i{
