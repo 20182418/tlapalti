@@ -134,8 +134,8 @@ ul{
     outline: none;
     box-sizing: border-box;
     height: 60px;
-    width: 0;
-    padding: 0 10px;
+    width: ;
+    padding: 0 5px;
     color: #000;
     border-radius: 50px;
     font-size: 20px;
