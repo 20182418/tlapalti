@@ -94,14 +94,16 @@ ul{
     justify-content: flex-end;
  }
  .news{
-    background: #D7D3CA;
+    background: #CFDCDD;
     padding-left:55px;
     padding-right:25px;
     margin-left:0px;
     width:100%;
     padding-top:5px;
  }
-
+.news btn{
+    margin-left:20px;
+}
  .showcase p{
     color:#FFFFFF;
  }
