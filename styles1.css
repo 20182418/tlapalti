@@ -136,7 +136,8 @@ ul{
     height: 40px;
     width: ;
     padding: 0 10px;
-    color: grey;
+    background: grey ;
+    color: white;
     border-radius: 50px;
     font-size: 20px;
     border: 1px solid #5DFCF2;
