@@ -25,6 +25,10 @@ body{
     height: 60px;
     padding: 20 px 0;
 }
+.nav-main{
+    background-color:white;
+    padding: 30px;
+ }
 .joseantonio{
 padding:0 0 0 5px;
 }
