@@ -43,7 +43,7 @@ border-radius: 90%;
 .centrado{
     font-size: 32px;
     position: absolute;
-    top: 47%;
+    top: 60%;
     left: 60%;
     transform: translate(-50%, -50%);
 }
@@ -60,7 +60,7 @@ width: 35%;
 .centrado1{
     font-size: 32px;
     position: absolute;
-    top: 100%;
+    top: 120%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
