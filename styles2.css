@@ -25,6 +25,15 @@ body{
     height: 60px;
     padding: 20 px 0;
 }
+ .pie{
+    clear: both;
+    padding: 20px;
+    background: #2d3436;
+    color: #ffffff;
+}
+.correo{
+    color:white;
+}
 .titulologo{
     font-size: 3rem;
     margin-left: 8px;
