@@ -274,6 +274,9 @@ main.contenido .author{
     background: #2d3436;
     color: #ffffff;
 }
+.correo{
+    color:white;
+}
 /*Media Queris*/
 @media screen and (max-width: 900px){
     main .contenedor{
