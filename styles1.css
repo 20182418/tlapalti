@@ -234,6 +234,8 @@ main .contenido .fecha{
 }
 main.contenido .author{
     font-size: 14px;
+    padding-bottom:5px;
+    margin-bottom:5px;
     color:#525151;
 }
 .textwork{
