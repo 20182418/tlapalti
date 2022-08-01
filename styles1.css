@@ -232,6 +232,10 @@ main .contenido .fecha{
     font-size: 14px;
     color:#525151;
 }
+main.contenido .author{
+    font-size: 14px;
+    color:#525151;
+}
 .textwork{
     width:90%;
 }
