@@ -30,8 +30,8 @@ body{
     padding: 30px;
  }
 .joseantonio{
-padding: 20px 20px 20px 5px;
-margin: 20px 20px 50px 5px;
+padding: 10px 10px 20px 5px;
+margin: 10px 10px 50px 5px;
 width: 35%;
 border-radius: 90%;
 }
@@ -57,15 +57,15 @@ font-size: 25px;
     text-decoration: none;
 }
 .franciscojavier{
-padding: 20px 20px 20px 10px;
-margin: 20px 10px 20px 770px;
+padding: 10px 10px 10px 10px;
+margin: 10px 10px 10px 770px;
 border-radius: 90%;
 width: 35%;
 }
 .centrado1{
     font-size: 32px;
     position: absolute;
-    top: 100%;
+    top: 130%;
     left: 45%;
     transform: translate(-50%, -50%);
 }
