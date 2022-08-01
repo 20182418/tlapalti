@@ -219,7 +219,7 @@ main{
     min-height: 100vh;
 }
 main .contenido p{
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     line-height: 30px;
     color: #525151;
 }
