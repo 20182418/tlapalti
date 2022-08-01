@@ -35,6 +35,12 @@ margin: 20px 20px 20px 20px;
 width: 40%;
 border-radius: 90%;
 }
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
 .franciscojavier{
 padding: 20px 20px 20px 20px;
 margin: 20px 20px 20px 870px;
