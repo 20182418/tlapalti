@@ -71,6 +71,9 @@ width: 35%;
 .ANN{
     margin-left: 15px;
 }
+.FJM{
+    margin-left:70px;
+}
 .titulologo{
    font-size: 1.5rem;
     color: #000000;
@@ -87,4 +90,5 @@ width: 35%;
 }
 .correo{
     color:white;
+    text-decoration:none;
 }
