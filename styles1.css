@@ -219,8 +219,8 @@ main{
     min-height: 100vh;
 }
 main .contenido p{
-    margin-bottom: 10px;
-    line-height: 30px;
+    margin-bottom: 5px;
+    line-height: 15px;
     color: #525151;
 }
 main .contenido .titulo{
