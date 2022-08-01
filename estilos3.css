@@ -30,15 +30,15 @@ body{
     padding: 30px;
  }
 .joseantonio{
-padding: 20px 20px 20px 5px;
-margin: 20px 20px 50px 5px;
+padding: 10px 10px 20px 5px;
+margin: 10px 10px 50px 5px;
 width: 35%;
 border-radius: 90%;
 }
 
 .ColorAF{
 color: #E3E3E3;
-font-size: 30px;
+font-size: 10px;
 }
 
 .container{
@@ -57,8 +57,8 @@ font-size: 30px;
     text-decoration: none;
 }
 .franciscojavier{
-padding: 20px 20px 20px 10px;
-margin: 20px 10px 20px 770px;
+padding: 10px 10px 20px 10px;
+margin: 10px 10px 20px 770px;
 border-radius: 90%;
 width: 35%;
 }
@@ -75,10 +75,9 @@ width: 35%;
 }
 .ANN{
     margin-left: 20px;
-    padding-bottom: 30px;
 }
 .FJM{
-    margin-left:850px;
+    margin-left:800px;
 }
 .titulologo{
    font-size: 1.5rem;
