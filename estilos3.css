@@ -41,9 +41,9 @@ border-radius: 90%;
     margin: auto;
 }
 .centrado{
-    font-size: 35px;
+    font-size: 32px;
     position: absolute;
-    top: 45%;
+    top: 47%;
     left: 60%;
     transform: translate(-50%, -50%);
 }
@@ -58,9 +58,9 @@ border-radius: 90%;
 width: 35%;
 }
 .centrado1{
-    font-size: 35px;
+    font-size: 32px;
     position: absolute;
-    top: 105%;
+    top: 100%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
