@@ -40,12 +40,33 @@ border-radius: 90%;
     width: 90%;
     margin: auto;
 }
-
+.centrado{
+    font-size: 23px;
+    position: absolute;
+    top: 45%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+}
+.centrado a{
+    color: black;
+    text-decoration: none;
+}
 .franciscojavier{
 padding: 20px 20px 20px 10px;
 margin: 20px 10px 20px 770px;
 border-radius: 90%;
 width: 35%;
+}
+.centrado1{
+    font-size: 23px;
+    position: absolute;
+    top: 105%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+}
+.centrado1 a{
+    color: black;
+    text-decoration: none;
 }
 .titulologo{
    font-size: 1.5rem;
