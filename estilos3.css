@@ -36,8 +36,9 @@ width: 35%;
 border-radius: 90%;
 }
 
-.colorAF{
-color: gray;
+.ColorAF{
+color: #E3E3E3;
+font-size: 10px;
 }
 
 .container{
