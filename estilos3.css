@@ -48,14 +48,12 @@ border-radius: 90%;
 width: 35%;
 }
 .titulologo{
-    font-size: 3rem;
-    margin-left: 8px;
-    -webkit-text-stroke: .7px #000000 ;
-    color: #BCD4E6;
+   font-size: 1.5rem;
+    color: #000000;
 }
 .nav-logo{
     width: 50px;
-    margin-top: 10px;
+    margin-top: 8px;
 }
  .pie{
     clear: both;
