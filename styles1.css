@@ -98,22 +98,8 @@ ul{
     justify-content: flex-end;
  }
 
-
-
- /*----Fin----*/
-.textja {
-transition:1.0s;
-will-change: transform;
-}
-textja:hover{
-transform: translateX(-30%);
-filter: brightness(80%);
-}
-Footer
-
-
  .news{
-    background: #EDEBEB;
+    background: gray;
     padding-left:55px;
     padding-right:25px;
     margin-left:0px;
