@@ -31,9 +31,9 @@ body{
  }
 .joseantonio{
 padding: 20px 20px 20px 20px;
-margin: 20px 20px 20px 20px;
+margin: 20px 20px 20px 10px;
 width: 35%;
-border-radius: 80%;
+border-radius: 90%;
 }
 
 .container{
@@ -43,7 +43,7 @@ border-radius: 80%;
 
 .franciscojavier{
 padding: 20px 20px 20px 10px;
-margin: 20px 20px 20px 850px;
+margin: 20px 20px 20px 700px;
 border-radius: 90%;
 width: 35%;
 }
