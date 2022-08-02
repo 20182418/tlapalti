@@ -171,15 +171,18 @@ main .contenido p{
     margin-bottom: 10px;
     line-height: 20px;
     color: #525151;
+    text-decoration:none;
 }
 main .contenido .titulo{
     font-family: 'Monserrat', sans-serif;
     font-weight: normal;
     padding-top: 40px;
+    text-decoration:none;
 }
 main .contenido .fecha{
     font-size: 14px;
     color:#525151;
+    text-decoration:none;
 }
 main.contenido .author{
     font-size: 14px;
