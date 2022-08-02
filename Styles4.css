@@ -28,7 +28,7 @@ body{
     z-index: 999;
     width: 43px;
     height: 43px;
-    background: #f28482;
+    background: #E3E3E3;
     border-radius: 100%;
     transition: all 0.5s ease-in-out;
     box-shadow: 1px 3px 10px 0 rgba(0,0,0,0.3);
@@ -73,7 +73,7 @@ body{
     text-align: center;
     display: block;
     margin: 20px 0;
-    color: #f28482;
+    color: #E3E3E3;
     text-decoration: none;
     font-family: sans-serif;
     text-transform: uppercase;
