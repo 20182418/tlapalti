@@ -88,6 +88,7 @@ width: 25%;
     position: absolute;
     top: 115%;
     left: 30%;
+    padding-left:50px;
     transform: translate(-50%, -50%);
     background:#E3E3E3;
     width:50%;
@@ -101,7 +102,7 @@ width: 25%;
     margin-left: 15px;
 }
 .FJM{
-    margin-left:850px;
+    margin-left:700px;
 }
 .titulologo{
    font-size: 1.5rem;
