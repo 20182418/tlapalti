@@ -10,15 +10,12 @@ body{
 }
 
 .container, .button, .nav{
-   padding: 10px 10px 20px 5px;
-   margin: 10px 10px 50px 400px;
-   width: 30%;
-   border-radius: 90%;
+   position: absolute;
 }
 
 .container{
     margin: auto;
-    top: 10%;
+    top: 20%;
     left: 50%;
     margin-left: -20px;
 }
