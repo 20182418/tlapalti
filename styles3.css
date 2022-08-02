@@ -147,6 +147,9 @@ width: 25%;
     color: #E0E0E0;
     justify-content: space-around;
  }
+aside .indice ul{
+    text-decoration:none;
+}
  aside .indice .list{
     color: black;
 }
