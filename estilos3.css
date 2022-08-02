@@ -65,6 +65,7 @@ font-size: 25px;
     left: 63%;
     transform: translate(-50%, -50%);
     background:grey;
+    width:80%;
 }
 .centrado a{
     color: black;
@@ -89,6 +90,7 @@ width: 25%;
     left: 40%;
     transform: translate(-50%, -50%);
     background:#E3E3E3;
+    width:80%;
 }
 .centrado1 a{
     color: black;
