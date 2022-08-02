@@ -55,7 +55,7 @@ font-size: 25px;
     font-size: 32px;
     position: absolute;
     top: 45%;
-    left: 63%;
+    left: 65%;
     transform: translate(-50%, -50%);
 }
 .centrado a{
@@ -77,7 +77,7 @@ width: 25%;
 .centrado1{
     font-size: 32px;
     position: absolute;
-    top: 120%;
+    top: 115%;
     left: 40%;
     transform: translate(-50%, -50%);
 }
