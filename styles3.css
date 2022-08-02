@@ -152,6 +152,7 @@ aside .indice ul{
 }
  aside .indice .list{
     color: black;
+    text-decoration:none;
 }
 aside.indice{
     position: sticky;
