@@ -109,3 +109,27 @@ width: 25%;
     color:white;
     text-decoration:none;
 }
+
+
+
+
+
+aside .indice .list{
+    display: block;
+    margin-bottom: 10px;
+    color: #E0E0E0;
+    justify-content: space-around;
+ }
+ aside .indice .list{
+    color: black;
+}
+aside.indice{
+    position: sticky;
+ }
+ .contenedor{
+    max-width: 1000px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
