@@ -215,6 +215,9 @@ main.contenido .author{
 .links a:hover{
     opacity: .5;
 }
+.author{
+    text-decoration:none;
+}
 ul{
     list-style: none;
     text-decoration:none;
