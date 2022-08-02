@@ -114,7 +114,7 @@ width: 25%;
 
 
 
- /*Aside*/
+  /*Aside*/
  aside{
     min-width: 30%;
     margin: 40px 20px 20px 0;
@@ -132,8 +132,7 @@ width: 25%;
     margin-bottom:20px ;
     color:#f2f2f2;
  }
-
-aside .indice .list{
+ aside .indice .list{
     display: block;
     margin-bottom: 10px;
     color: #E0E0E0;
@@ -152,7 +151,14 @@ aside.indice{
     display: flex;
     justify-content: space-between;
 }
-
+main{
+    min-height: 100vh;
+}
+main .contenido p{
+    margin-bottom: 10px;
+    line-height: 20px;
+    color: #525151;
+}
 main .contenido .titulo{
     font-family: 'Monserrat', sans-serif;
     font-weight: normal;
