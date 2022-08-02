@@ -86,7 +86,7 @@ width: 25%;
 .centrado1{
     font-size: 32px;
     position: absolute;
-    top: 145%;
+    top: 140%;
     left: 30%;
     padding-left:50px;
     transform: translate(-50%, -50%);
@@ -102,7 +102,7 @@ width: 25%;
     margin-left: 35px;
 }
 .FJM{
-    margin-left:750px;
+    margin-left:720px;
 }
 .titulologo{
    font-size: 1.5rem;
