@@ -7,7 +7,7 @@
 
 
 
-.menu-horizontal{
+.nav-menu {
   list-style: none;
   display: flex;
   justify-content: space-around;
@@ -16,7 +16,7 @@
 .nav-menu > li > a{
   display: block;
   padding: 15px 20px;
-  color: white; 
+  color: black; 
   text-decoration: none;
 }
 
