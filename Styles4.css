@@ -33,7 +33,7 @@ body{
     transition: all 0.5s ease-in-out;
     box-shadow: 1px 3px 10px 0 rgba(0,0,0,0.3);
     cursor: pointer;
-    button: 50%;
+    button: 100%;
 }
 
 .line{
@@ -68,7 +68,7 @@ body{
     transform: translateY(-10%);
     opacity: 0;
     top: 40px;
-    left: 150px;
+    left: 125px;
     transition: all 0.5s ease-in-out;
     background: white;
     width: 800px;
