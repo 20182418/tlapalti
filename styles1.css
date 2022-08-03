@@ -36,6 +36,15 @@
   display: block;
 }
 
+.menu-vertical li:hover{
+  background-color: gray;
+}
+
+.menu-vertical li a{
+  display: block;
+  color: white;
+  padding: 15px 15px 15px 20px;
+}
 
 
 
