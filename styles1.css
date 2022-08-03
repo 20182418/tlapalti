@@ -32,7 +32,7 @@
   background-color: rgba(71, 221, 219, .3 );
 }
 
-.nav-menu li:hover  .menu-vertical{
+.nav-menu li:hover .menu-vertical{
   display: block;
 }
 
