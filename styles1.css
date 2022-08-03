@@ -13,14 +13,14 @@
   justify-content: space-around;
 }
 
-.menu-horizontal > li > a{
+.nav-menu > li > a{
   display: block;
   padding: 15px 20px;
   color: white; 
   text-decoration: none;
 }
 
-.menu-horizontal > li:hover{
+.nav-menu> li:hover{
   background-color: #A2FEF4;
 }
 
@@ -32,7 +32,7 @@
   background-color: rgba(71, 221, 219, .3 );
 }
 
-.menu-horizontal li:hover  .menu-vertical{
+.nav-menu li:hover  .menu-vertical{
   display: block;
 }
 
