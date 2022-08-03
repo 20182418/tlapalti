@@ -87,10 +87,7 @@ body{
     color: #5f5f5f;
 }
 
-#toggle:checked ~ .nav{
-    opacity: 1;
-    transform: translateY(10%);
-}
+
 
 #toggle:checked ~ .button{
     transform: rotate(135deg);
