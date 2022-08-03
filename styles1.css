@@ -29,7 +29,7 @@
   display: none;
   list-style: none;
   width: 200px;
-  background-color: rgba(0, 0, 0, .5 );
+  background-color: rgba(16, 246, 220, .5 );
 }
 
 .nav-menu li:hover .menu-vertical{
@@ -37,7 +37,7 @@
 }
 
 .menu-vertical li:hover{
-  background-color: #DFE0E0;
+  background-color: #EDF2F2;
 }
 
 .menu-vertical li a{
