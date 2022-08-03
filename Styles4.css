@@ -10,7 +10,7 @@ body{
 }
 
 .container, .button, .nav{
-   position: absolute;
+   position: flex;
 }
 
 .container{
