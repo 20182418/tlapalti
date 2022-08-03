@@ -14,10 +14,9 @@ body{
 }
 
 .container{
+    width:90%;
     margin: auto;
-    top: 0%;
-    left: 50%;
-    margin-left: -20px;
+    left:5%;
 }
 
 #toggle{
@@ -43,7 +42,7 @@ body{
 
 .button:before{
     position: absolute;
-    top: 50px;
+    top: 100px;
     left: 9px;
     content: '';
     width: 25px;
@@ -54,7 +53,7 @@ body{
 
 .button:after{
     position: absolute;
-    top: 20px;
+    top: 100px;
     left: 9px;
     content: '';
     width: 25px;
