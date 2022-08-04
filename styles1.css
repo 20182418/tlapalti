@@ -124,9 +124,6 @@ ul{
     background: #ffffff ;
     margin: 15px;
  }
- .nav-main  ul li a:hover{
-    border-bottom:2px solid #ffffff;
- }
  .nav-main ul.nav-menu{
     flex:1;
     margin-left: 20 px;
