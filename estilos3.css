@@ -25,6 +25,9 @@ body{
     height: 60px;
     padding: 20 px 0;
 }
+.CIDT{
+    font-size:10px;
+}
 .nav-main{
     background-color:white;
     padding: 30px;
