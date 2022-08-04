@@ -110,10 +110,7 @@ ul{
 
  /*---SWITCH----*/
 
- /*NAV-LEFT*/
- .nav-main ul{
-    display: flex;
- }
+
  .nav-main ul li{
     padding: 10px;
  }
