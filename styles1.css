@@ -23,21 +23,22 @@
 }
 
 .nav-menu > li:hover{
-  list-style: none;	
   background-color: #A2FEF4;
 }
 
 .menu-vertical{
-  position: absolute;
-  display: none;
-  list-style: none;
-  width: 200px;
-  background-color: rgba(16, 246, 220, .5 );
-}
+   position: absolute;
+   display: none;
+   list-style: none;
+   width: 200px;
+   background-color: rgba(16, 246, 220, .5 );
+   visibility: hidden;
+ }
 
 .nav-menu li:hover .menu-vertical{
-  display: block;
-}
+   display: block;
+   visibility: visible;
+ }
 
 .menu-vertical li:hover{
   background-color: #EDF2F2;
