@@ -17,7 +17,7 @@
  }
  
  .nav-menu > li:hover{
-   background-color: #A2FEF4;
+   background-color:#EDF2F2;
  }
  
  .menu-vertical{
@@ -35,7 +35,7 @@
  }
  
  .menu-vertical li:hover{
-   background-color: #EDF2F2;
+   background-color: #A2FEF4;
  }
  .menu-vertical li a{
    display: block;
