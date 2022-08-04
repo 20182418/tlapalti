@@ -17,7 +17,6 @@ body{
     font-size: 16 px;
     font-family: 'Oswald','sans-serif';
 }
-
 .nav-main{
     font-size: 17px;
     display: flex;
@@ -26,7 +25,6 @@ body{
     height: 60px;
     padding: 20 px 0;
 }
-
 .titulologo{
     font-size: 3rem;
     margin-left: 8px;
@@ -36,15 +34,4 @@ body{
 .nav-logo{
     width: 50px;
     margin-top: 18px;
-}
- .pie{
-    clear: both;
-    padding: 20px;
-    background: #2d3436;
-    color: #ffffff;
-    width:90%;
-}
-.correo{
-    color:white;
-    text-decoration:none;
 }

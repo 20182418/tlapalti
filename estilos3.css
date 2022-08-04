@@ -17,7 +17,19 @@ body{
     font-size: 16 px;
     font-family: 'Oswald','sans-serif';
 }
+.container{
+    width: 90%;
+    margin: auto;
+}
 .nav-main{
+    font-size: 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 20 px 0;
+}
+.textjn{
     font-size: 17px;
     display: flex;
     justify-content: space-between;
@@ -30,89 +42,54 @@ body{
     padding: 30px;
  }
 .joseantonio{
-padding: 10px 10px 20px 5px;
-margin: 10px 10px 20px 5px;
-width: 40%;
-border-radius: 90%;
-}
-.joseantonio1{
-padding: 10px 10px 10px 10px;
-margin: 2500px 10px 10px 170px;
-width: 25%;
-border-radius: 90%;
-}
-
-.Desarrollo{
-padding: 10px 10px 20px 5px;
-margin: 10px 10px 20px 400px;
+padding: 20px 20px 1px 20px;
+margin: 20px 20px 1px 20px;
 width: 30%;
 border-radius: 90%;
 }
 
-.ColorAF{
-color: white;
-font-size: 25px;
-}
-
-.container{
-    width: 90%;
-    margin: auto;
-}
 .centrado{
-    font-size: 32px;
+    font-size: 23px;
     position: absolute;
     top: 45%;
-    left: 70%;
-    padding-left:50px;
+    left: 55%;
     transform: translate(-50%, -50%);
-    background:#E3E3E3;
-    width:50%;
+    background:#E3E3E3 ;
 }
 .centrado a{
     color: black;
     text-decoration: none;
 }
 .franciscojavier{
-padding: 10px 10px 10px 10px;
-margin: 1px 10px 10px 690px;
-border-radius: 90%;
-width: 40%;
-}
-.franciscojavier1{
 margin-left:770px;
 border-radius: 90%;
-width: 25%;
+width: 30%;
 }
 .centrado1{
-    font-size: 32px;
+    font-size: 23px;
     position: absolute;
-    top: 130%;
-    left: 30%;
-    padding-left:50px;
+    top: 105%;
+    left: 55%;
     transform: translate(-50%, -50%);
-    background:#E3E3E3;
-    width:50%;
+    background: #E3E3E3;
 }
 .centrado1 a{
     color: black;
     text-decoration: none;
 }
 .ANN{
-    margin-bottom:15px;
-    margin-left: 35px;
-}
-.FJM{
-    margin-left:720px;
+    margin-left: 15px;
 }
 .titulologo{
-   font-size: 1.5rem;
+    font-size: 1.5rem;
     color: #000000;
 }
 .nav-logo{
     width: 50px;
-    margin-top: 8px;
+    margin-top: 18px;
+    margin-right:1px;
 }
- .pie{
+.pie{
     clear: both;
     padding: 20px;
     background: #2d3436;
@@ -120,103 +97,7 @@ width: 25%;
 }
 .correo{
     color:white;
-    text-decoration:none;
 }
-
-
-
-
-
-  /*Aside*/
- aside{
-    min-width: 30%;
-    margin: 40px 20px 20px 0;
-    height:100%;
-    background: white;
-    padding:20px;
-    border-radius:3px;
-    position: sticky;
-    top:20px;
- }
- aside.titulo{
-    font-family:'Montserrat',sans-serif;
-    font-weight: normal;
-    font-size: 24px;
-    margin-bottom:20px ;
-    color:#f2f2f2;
- }
- aside .indice .list{
-    display: block;
-    margin-bottom: 10px;
-    color: #E0E0E0;
-    justify-content: space-around;
- }
- aside .indice .list{
-    color: black;
-}
-aside.indice{
-    position: sticky;
- }
- .contenedor{
-    max-width: 1000px;
-    width: 90%;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-}
-main{
-    min-height: 100vh;
-}
-main .contenido p{
-    margin-bottom: 10px;
-    line-height: 20px;
-    color: #525151;
-}
-main .contenido .titulo{
-    font-family: 'Monserrat', sans-serif;
-    font-weight: normal;
-    padding-top: 40px;
-}
-main .contenido .fecha{
-    font-size: 14px;
-    color:#525151;
-}
-main.contenido .author{
-    font-size: 14px;
-    padding-bottom:5px;
-    margin-bottom:5px;
-    color:#525151;
-}
-.textwork{
-    width:90%;
-}
-.textja{
-    width:95%;
-}
-     /*Social*/
-.social{
-    margin: 50px;
-}
-.social p{
-    text-align: center;
-    font-size: 30px;
-    margin-bottom: 20px;
-}
-.links{
-    display: flex;
-    align-items: center;
-    justify-content: center;     
-}
-.links a{
-    margin: 0 30px
-}
-.links a i{
-    font-size: 2rem;
-}
-.links a:hover{
-    opacity: .5;
-}
-ul{
-    list-style: none;
-    text-decoration:none;
+.CIDT{
+    font-size: 15px;
 }

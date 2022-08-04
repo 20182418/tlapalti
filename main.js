@@ -7,9 +7,6 @@ const typed= new Typed('.typed',{
         '<i class="place">CREATIVIDAD</i>',
         '<i class="place">ORIGINALIDAD</i>',
         '<i class="place">HUMANIDADES</i>',
-        '<i class="place">PROGRESO</i>',
-        '<i class="place">LIBERTAD</i>',
-      
     ],
     stringsElement:'#cadenas-texto',
     typeSpeed: 80,
