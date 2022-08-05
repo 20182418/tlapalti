@@ -9,13 +9,11 @@
   display: flex;
   justify-content: space-around;
 }
-aside.indice{
-    position: sticky;
- }
 
 .nav-main ul{
-  display: flex;
+  display: flex;	
 }
+
 
 .nav-menu > li > a{
   list-style: none;
