@@ -347,6 +347,6 @@ main.contenido .author{
         flex-direction:column;
     }
     aside{
-        position: static;
+        position: sticky;
     }
 }
