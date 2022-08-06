@@ -210,6 +210,9 @@ main.contenido .author{
 .textja:hover{
 transform:scale(1.2);
 }
+.post{
+    overflow:hidden;
+}
      /*Social*/
 .social{
     margin: 50px;
