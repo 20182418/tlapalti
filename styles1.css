@@ -366,6 +366,12 @@ main.contenido .author{
 .correo{
     color:white;
 }
+.line{
+    margin-bottom: 50px;
+    background-color:#ffffff ;
+    opacity:0.000000000000000001;
+}
+
 /*Media Queris*/
 @media screen and (max-width: 900px){
     main .contenedor{
