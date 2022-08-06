@@ -304,6 +304,9 @@ main.contenido .author{
     margin-bottom:5px;
     color:#525151;
 }
+.contenido{
+	overflow:hidden;
+}
 .textwork{
     width:100%;
     height: 100%;
