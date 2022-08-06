@@ -192,10 +192,23 @@ main.contenido .author{
     text-decoration:none;
 }
 .textwork{
-    width:90%;
+    width:100%;
+    height: 100%;
+    transition: 0.5s;
+    object-fit: cover;
+    overflow: hidden;
+}
+.textwork:hover{
+   transform: scale(1.2);
 }
 .textja{
-    width:95%;
+    width: 100%;
+    height: 100%;
+    transition: 0.5s;
+    object-fit: cover;
+}
+.textja:hover{
+transform:scale(1.2);
 }
      /*Social*/
 .social{
