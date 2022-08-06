@@ -303,8 +303,16 @@ main.contenido .author{
     color:#525151;
 }
 .textwork{
-    width:90%;
+    width:100%;
+    height: 100%;
+    transition: 0.5s;
+    object-fit: cover;
+    overflow: hidden;
 }
+.textwork:hover{
+   transform: scale(1.2s);
+}
+
 .textja{
     width:95%;
 }
