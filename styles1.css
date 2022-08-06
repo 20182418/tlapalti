@@ -310,7 +310,7 @@ main.contenido .author{
     overflow: hidden;
 }
 .textwork:hover{
-   transform: scale(1.2s);
+   transform: scale(1.2);
 }
 
 .textja{
