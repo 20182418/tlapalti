@@ -28,7 +28,6 @@
 }
 
 .menu-vertical{
-   position: absolute;
    display: none;
    list-style: none;
    width: 200px;
