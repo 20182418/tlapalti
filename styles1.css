@@ -378,6 +378,6 @@ main.contenido .author{
         flex-direction:column;
     }
     aside{
-        position: sticky;
+        position: absolute;
     }
 }
