@@ -374,11 +374,11 @@ main.contenido .author{
 
 /*Media Queris*/
 	
-@media screen and (max-width: 1700px){
+@media screen and (max-width: 900px){
     main .contenedor{
         flex-direction:column;
     }
     aside{
-        position: absolute;
+        position: sticky;
     }
 }
