@@ -301,6 +301,7 @@ main .contenido .titulo{
     font-family: 'Monserrat', sans-serif;
     font-weight: normal;
     padding-top: 40px;
+    padding-bottom:30px;
 }
 main .contenido .fecha{
     font-size: 14px;
