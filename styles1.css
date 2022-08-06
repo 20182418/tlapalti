@@ -373,7 +373,8 @@ main.contenido .author{
 }
 
 /*Media Queris*/
-@media screen and (max-width: 900px){
+	
+@media screen and (max-width: 1700px){
     main .contenedor{
         flex-direction:column;
     }
