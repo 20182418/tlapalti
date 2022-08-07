@@ -3,7 +3,9 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 body{
      background:	#DCDEDC;
      color: black;
@@ -136,6 +138,36 @@ a {
 .opciones .contenido-opcion:hover .titulo,
 .opciones .contenido-opcion:hover .descripcion {
 	color: #fff;
+}
+.nav-main{
+    font-size: 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 20 px 0;
+}
+
+.titulologo{
+    font-size: 3rem;
+    margin-left: 8px;
+    -webkit-text-stroke: .7px #000000 ;
+    color: #BCD4E6;
+}
+.nav-logo{
+    width: 50px;
+    margin-top: 18px;
+}
+ .pie{
+    clear: both;
+    padding: 20px;
+    background: #2d3436;
+    color: #ffffff;
+    width:90%;
+}
+.correo{
+    color:white;
+    text-decoration:none;
 }
 
 @media screen and (max-width: 800px){
