@@ -174,7 +174,7 @@ ul{
 .showcase ul{
    display: flex;
    animation: cambio 50s infinite alternate linear;
-   width: 340%;
+   width: 370%;
 
  }
  .showcase li{
