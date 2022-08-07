@@ -175,6 +175,7 @@ ul{
    display: flex;
    animation: cambio 25s infinite alternate linear;
    width: 200%;
+   scroll-snap-type: x mandatory;
  }
  .showcase li{
    width: 100%;
