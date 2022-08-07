@@ -173,7 +173,7 @@ ul{
 
 .showcase ul{
    display: flex;
-   animation: cambio 25s infinite alternate linear;
+   animation: cambio 25s infinite alternate ease-in-out;
    width: 200%;
  }
  .showcase li{
