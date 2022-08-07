@@ -167,6 +167,11 @@ a {
     width:90%;
    font-family: 'Monserrat','sans-serif';
 }
+.line{
+    margin-bottom: 30px;
+    background-color:#ffffff ;
+    opacity:0.000000000000000001;
+}
 .correo{
     color:white;
     text-decoration:none;
