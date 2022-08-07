@@ -146,7 +146,42 @@ ul{
     flex-direction: column;
     align-items: center;
     justify-content: flex-end;
+    overflow: hidden;
  }
+
+.showcase ul{
+   display: flex;
+   animation: cambio 15s infinite alternate linear;
+   width: 200%;
+ }
+ .showcase li{
+   width: 100%;
+    list-style: none;
+ }
+ .showcase img{
+   width: 100%;
+   height: 150%;
+}
+@keyframes cambio{
+   0%{margin-left: 0;}
+   20%{margin-left: 0;}
+   
+   25%{margin-left: -100%;}
+   45%{margin-left: -100%;}
+   
+   50%{margin-left: -200%;}
+   70%{margin-left: -200%;}
+   
+   75%{margin-left: -300%;}
+   100%{margin-left: -300%;}
+}
+@media only screen and (min-width:320px) and (max-width:768px){
+   .slider, .slider ul, .slider img{
+       height: 100vh;
+   }
+   }
+
+
  .news{
     background-color: gray;
  } 
@@ -163,6 +198,7 @@ ul{
  .showcase p{
     color:#27C0B3;
  }
+
  .showcase .interstext{
     color:#ffffff;
     margin-right: 20px ;
