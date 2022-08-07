@@ -175,7 +175,7 @@ ul{
    display: flex;
    animation: cambio 25s infinite alternate linear;
    width: 200%;
-   scroll-snap-type: x mandatory;
+
  }
  .showcase li{
    width: 100%;
@@ -195,8 +195,7 @@ ul{
    50%{margin-left: -200%;}
    70%{margin-left: -200%;}
    
-   75%{margin-left: -300%;}
-   95%{margin-left: -300%;}
+
 }
 @media only screen and (min-width:320px) and (max-width:768px){
    .slider, .slider ul, .slider img{
