@@ -148,7 +148,10 @@ a {
     padding: 20 px 0;
     background-color:white;
 }
-
+.container{
+    width: 90%;
+    margin: auto;
+}
 .titulologo{
     font-size: 3rem;
     margin-left: 8px;
