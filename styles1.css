@@ -174,7 +174,7 @@ ul{
 .showcase ul{
    display: flex;
    animation: cambio 50s infinite alternate linear;
-   width: 400%;
+   width: 410%;
 
  }
  .showcase li{
@@ -194,6 +194,9 @@ ul{
 
    50%{margin-left: -200%;}
    75%{margin-left: -200%;}
+
+   80%{margin-left: -300%;}
+   100%{margin-left: -300%;}
    
 
 }
