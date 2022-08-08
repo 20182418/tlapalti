@@ -410,7 +410,21 @@ main.contenido .author{
     background-color:#ffffff ;
     opacity:0.000000000000000001;
 }
-
+.boton{
+    cursor:pointer;
+    display: inline-block;
+    border: 0;
+    font-weight:bold ;
+    padding: 5px 15px;
+    background: #ffffff ;
+    font-size: 15px;
+    border:1px solid #ffffff;
+    margin:10px 0;
+    color:#BAC0BE ;
+ }
+.boton:hover{
+    opacity: .7;
+ }
 /*Media Queris*/
 	
 @media screen and (max-width: 900px){
