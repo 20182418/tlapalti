@@ -160,8 +160,11 @@ a {
     color: #BCD4E6;
 }
 .nav-logo{
-    width: 50px;
-    margin-top: 18px;
+     width: 50px;
+    margin-top: 3px;
+    margin-left:.3px;
+    margin-right: 15px;
+	
 }
 .line{
     margin-bottom: 450px;
