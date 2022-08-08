@@ -24,7 +24,7 @@ let suggestions = [
      <a href="https://www.youtube.com/channel/UC8aD9nazzFBDSM3GWnOQUUA">"Youtube"</a>,
      <a href="mailto:contacto.tlapalti@gmail.com">"Correo"</a>,
      <a href="Antonio.html">"José Antonio"</a>,
-     <a href="Francisco.html">"Francisco Anthony"</a>,
+     "Francisco Anthony",
     
     
 ];
