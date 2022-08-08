@@ -9,6 +9,10 @@
   display: flex;
   justify-content: space-around;
 }
+.nav-logo{
+    width: 50px;
+    margin-top: 8px;
+}
 .post{
 overflow:hidden;
 }
