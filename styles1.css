@@ -444,6 +444,9 @@ main.contenido .author{
   color: black;
   cursor: pointer;
 }
+.almacen input{
+	position:static;
+}
 /*Media Queris*/
 	
 @media screen and (max-width: 900px){
