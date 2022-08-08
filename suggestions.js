@@ -23,7 +23,7 @@ let suggestions = [
      <a href="https://www.instagram.com/tlapalti.science/">"Instagram"</a>,
      <a href="https://www.youtube.com/channel/UC8aD9nazzFBDSM3GWnOQUUA">"Youtube"</a>,
      <a href="mailto:contacto.tlapalti@gmail.com">"Correo"</a>,
-     <a href="Antonio.html">"José Antonio"</a>,
+     "José Antonio",
      "Francisco Anthony",
     
     
