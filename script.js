@@ -1,8 +1,8 @@
 // getting all required elements
-const searchWrapper = document.querySelector(".search-input");
+const searchWrapper = document.querySelector(".almacen");
 const inputBox = searchWrapper.querySelector("input");
 const suggBox = searchWrapper.querySelector(".autocom-box");
-const icon = searchWrapper.querySelector(".icon");
+const icon = searchWrapper.querySelector(".btns");
 let linkTag = searchWrapper.querySelector("a");
 let webLink;
 
