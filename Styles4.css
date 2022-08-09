@@ -1,11 +1,3 @@
-*{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-html{
-    scroll-behavior: smooth;
-}
 body{
     background:	#B2BEB5;
     color: black;
@@ -61,7 +53,6 @@ body{
     background: #fff;
     transform: rotate(90deg);
 }
-
 .button:after{
     position: absolute;
     top: 23px;
@@ -142,9 +133,6 @@ body{
     height: 60px;
     padding: 20 px 0;
 }
-.CIDT{
-    font-size:20px;
-}
 .nav-main{
     background-color:white;
     padding: 30px;
@@ -187,7 +175,6 @@ font-size: 25px;
     transform: translate(-50%, -50%);
     background:#E3E3E3;
     width:50%;
-    box-shadow: 5px 3px 3px black;
 }
 .centrado a{
     color: black;
@@ -213,7 +200,6 @@ width: 25%;
     transform: translate(-50%, -50%);
     background:#E3E3E3;
     width:50%;
-    box-shadow: 5px 3px 3px black;
 }
 .centrado1 a{
     color: black;
@@ -310,23 +296,10 @@ main.contenido .author{
     color:#525151;
 }
 .textwork{
-    width:100%;
-    height: 100%;
-    transition: 0.5s;
-    object-fit: cover;
-    overflow: hidden;
-}
-.textwork:hover{
-   transform: scale(1.2);
+    width:90%;
 }
 .textja{
-    width: 100%;
-    height: 100%;
-    transition: 0.5s;
-    object-fit: cover;
-}
-.textja:hover{
-transform:scale(1.2);
+    width:95%;
 }
      /*Social*/
 .social{
