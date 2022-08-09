@@ -301,6 +301,7 @@ ul{
     border-radius:3px;
     top:20px;
    position:sticky;
+   box-shadow: 5px 3px 3px black;
  }
  aside.titulo{
     font-family:'Montserrat',sans-serif;
