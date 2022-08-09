@@ -49,7 +49,7 @@ body{
 
 .button:before{
     position: absolute;
-    top: 30px;
+    top: 90px;
     left: 13px;
     content: '';
     width: 25px;
@@ -59,7 +59,7 @@ body{
 }
 .button:after{
     position: absolute;
-    top: 30px;
+    top: 90px;
     left: 13px;
     content: '';
     width: 25px;
