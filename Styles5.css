@@ -122,7 +122,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 60 px;
+    height: 30 px;
     padding: 5 px 0;
 }
 .nav-main{
