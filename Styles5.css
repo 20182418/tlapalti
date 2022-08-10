@@ -44,14 +44,12 @@ body{
     cursor: pointer;
     bottom: 10%;
     left:47%;
-    top: 5px;
     opacity:0.000000000000000001;
 }
 
 
 .button:before{
     position: absolute;
-    top: 5px;
     left: 13px;
     content: '';
     width: 25px;
@@ -62,7 +60,6 @@ body{
 }
 .button:after{
     position: absolute;
-    top: 5px;
     left: 13px;
     content: '';
     width: 25px;
