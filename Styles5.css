@@ -128,33 +128,9 @@ body{
 .nav-main{
     background-color:white;
  }
-.joseantonio{
-padding: 10px 10px 20px 5px;
-margin: 10px 10px 50px 5px;
-width: 40%;
-border-radius: 90%;
-}
-.joseantonio1{
-padding: 10px 10px 10px 10px;
-margin: 2500px 10px 10px 170px;
-width: 25%;
-border-radius: 90%;
-}
-
-.Desarrollo{
-padding: 10px 10px 20px 5px;
-margin: 10px 10px 50px 450px;
-width: 20%;
-border-radius: 90%;
-}
-
-.ColorAF{
-color: white;
-font-size: 25px;
-}
 
 .container{
-    width: 90%;
+    width: 60%;
     margin: auto;
 }
 .centrado{
