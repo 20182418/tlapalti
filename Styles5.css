@@ -3,10 +3,6 @@
     margin: 0;
     padding: 0;
 }
-#blog{
-  margin: 0;
-    padding: 0;
-}
 html{
     scroll-behavior: smooth;
 }
@@ -364,4 +360,8 @@ a{
 }
 .CIDT{
     font-size:40px;
+}
+.blog{
+    margin-bottom:0;
+    padding-bottom:0;
 }
