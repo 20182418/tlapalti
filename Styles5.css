@@ -17,6 +17,12 @@ body{
     font-size: 16 px;
     font-family: 'Oswald','sans-serif';
 }
+.Desarrollo{
+padding: 10px 10px 20px 5px;
+margin: 10px 10px 20px 400px;
+width: 30%;
+border-radius: 90%;
+}
 
 .container, .button, .nav{
    position: absolute;
