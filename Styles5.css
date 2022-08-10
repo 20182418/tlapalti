@@ -184,6 +184,8 @@ width: 25%;
 .titulologo{
    font-size: 1.5rem;
     color: #000000;
+    background: white;
+    padding-bottom: 15px;
 }
 .nav-logo{
     width: 50px;
