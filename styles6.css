@@ -112,7 +112,7 @@ width: 25%;
 .titulologo{
    font-size: 3rem;
     color: #000000;
-    font-family: 'Monserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
 }
 .nav-logo{
     width: 50px;
@@ -123,7 +123,8 @@ width: 25%;
     padding: 20px;
     background: #2d3436;
     color: #ffffff;
-     font-size:20px;
+     font-size:15px;
+     font-family: 'Oswald', sans-serif;
 }
 .correo{
     color:white;
