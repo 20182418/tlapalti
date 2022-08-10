@@ -122,15 +122,15 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 30 px;
-    padding: 5 px 0;
+    height: 60 px;
+    padding: 20 px 0;
 }
 .nav-main{
     background-color:white;
  }
 
 .container{
-    width: 60%;
+    width: 90%;
     margin: auto;
 }
 .centrado{
