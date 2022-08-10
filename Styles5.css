@@ -19,7 +19,7 @@ body{
 }
 .Desarrollo{
 padding: 10px 10px 20px 5px;
-margin: 10px 10px 20px 400px;
+margin: 10px 10px 20px 200px;
 width: 30%;
 border-radius: 90%;
 }
@@ -29,7 +29,7 @@ border-radius: 90%;
 }
 
 .container{
-    width:50%;
+    width:80%;
     margin: auto;
     left:5%;
     top:0.001%;
