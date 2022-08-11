@@ -65,7 +65,7 @@ body{
     transform: translateY(-10%);
     opacity: 0;
     top: 400px;
-    left: 250px;
+    left: 270px;
     transition: all 0.5s ease-in-out;
     background: white;
     width: 800px;
