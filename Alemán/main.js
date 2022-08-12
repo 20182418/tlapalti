@@ -1,14 +1,14 @@
 const typed= new Typed('.typed',{
     strings:[
-        '<i class="place">INNOVACION</i>',
-        '<i class="place">INVESTIGACION</i>',
-        '<i class="place">CIENCIAS</i>',
-        '<i class="place">ARTE</i>',
-        '<i class="place">CREATIVIDAD</i>',
-        '<i class="place">ORIGINALIDAD</i>',
-        '<i class="place">HUMANIDADES</i>',
-        '<i class="place">PROGRESO</i>',
-        '<i class="place">LIBERTAD</i>',
+        '<i class="place">INNOVATION</i>',
+        '<i class="place">FORSCHUNG</i>',
+        '<i class="place">WISSENSCHAFTEN</i>',
+        '<i class="place">KUNST</i>',
+        '<i class="place">KREATIVITÄT</i>',
+        '<i class="place">ORIGINALITÄT</i>',
+        '<i class="place">GEISTESWISSENSCHAFTEN</i>',
+        '<i class="place">FORTSCHRITT</i>',
+        '<i class="place">FREIHEIT</i>',
       
     ],
     stringsElement:'#cadenas-texto',
