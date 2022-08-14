@@ -464,7 +464,7 @@ main.contenido .author{
     background-color: #eee;
   }
 
-#myInput{
+#myInput1{
     outline: none;
     box-sizing: border-box;
     height: 35px;
@@ -477,7 +477,7 @@ main.contenido .author{
     border: 1px solid #6E7070;
     transition: all .7s ease;
  }
- .almacen:hover #myInput{
+ .almacen:hover #myInput1{
   width: 350px;
 }
 .boton:hover{
