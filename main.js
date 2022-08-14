@@ -25,7 +25,7 @@ const typed= new Typed('.typed',{
 });
 function myFunction() {
     var input, filter, ul, li, a, i, txtValue;
-    input = document.getElementById("myInput");
+    input = document.getElementById("myInput1");
     filter = input.value.toUpperCase();
     ul = document.getElementById("myUL");
     ul.style.display = "block";
