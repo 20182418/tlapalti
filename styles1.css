@@ -244,19 +244,6 @@ ul{
     margin:10px 0;
     color:white ;
  }
- input{
-    outline: none;
-    box-sizing: border-box;
-    height: 35px;
-    width: 0;
-    padding: 0 10px;
-    background: #F8F8F8 ;
-    color: gray;
-    border-radius: 50px;
-    font-size: 20px;
-    border: 1px solid #6E7070;
-    transition: all .7s ease;
- }
 
 ::placeholder{
     color: gray;
@@ -280,9 +267,6 @@ ul{
     color: white;
     line-height: 70px;
     transition: all .7s ease;
- }
- .almacen:hover input{
-    width: 350px;
  }
  .almacen:hover i{
     transform: rotate(-360deg);
