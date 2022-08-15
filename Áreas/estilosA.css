@@ -349,12 +349,6 @@ ul{
     margin-top: 0;  
 }
 
-.titulologo{
-    font-size: 3rem;
-    margin-left: 8px;
-    -webkit-text-stroke: .7px #000000 ;
-    color: gray;
-}
 
 .nav-logo{
     width: 50px;
