@@ -34,6 +34,7 @@ h1,h2,h3,h4,h5,h6{
 /*------Estilos header-----*/
 .main-header{
     width: 100%;
+    background: white;
 }
 .logo{
     font-size: 2rem;
@@ -239,7 +240,7 @@ h1,h2,h3,h4,h5,h6{
 /*-------Estilos responsive-------*/
 @media screen and (min-width:480px){
     .logo{
-        color: white;
+        color: black;
     }
     .main-header__contactInfo{
         text-align: right;
