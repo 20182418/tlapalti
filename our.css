@@ -132,7 +132,8 @@ h1,h2,h3,h4,h5,h6{
     position:absolute;
     width:100%;
     height: 100%;
-    background: rgba(0,0,0,0.7);
+    margin-top:110px ;
+    background: url('/Acantilado.jpg') no-repeat center center/cover;
     z-index:1000;
     top:0;
 }
