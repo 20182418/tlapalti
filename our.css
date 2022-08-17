@@ -28,6 +28,7 @@ h1,h2,h3,h4,h5,h6{
     justify-content: space-between;
     align-items: center;
 }
+
 .column{
     width: 100%;
 }
@@ -137,6 +138,7 @@ h1,h2,h3,h4,h5,h6{
     background: url('/Acantilado.jpg') no-repeat center center/cover;
     z-index:1000;
     top:0;
+    border: none;
 }
 .banner__img{
     width:100%;
@@ -267,6 +269,9 @@ h1,h2,h3,h4,h5,h6{
     .column--50-25{
         width: 49%;
     }
+    .column--50-25_{
+        width: 49%;
+    }
     .column--33{
         width: 32%;
     }
@@ -301,6 +306,10 @@ h1,h2,h3,h4,h5,h6{
     }
     .column--50-25{
         width: 24.5%;
+    }
+    .column--50-25_{
+        width: 24.5%;
+        opacity: 0.0000001;
     }
     .column__title{
         font-size: 1em;
