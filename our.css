@@ -275,6 +275,7 @@ h1,h2,h3,h4,h5,h6{
     }
     .column--33{
         width: 32%;
+        text-decoration: none;
     }
     .main__about__description .column:nth-child(2){
         padding-left: 20px;
