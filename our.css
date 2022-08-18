@@ -265,7 +265,6 @@ h1,h2,h3,h4,h5,h6{
         font-size: 2em;
     }
     .column--50{
-        height:10px;
         width: 49%;
     }
     .column--50-25{
