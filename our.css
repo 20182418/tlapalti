@@ -247,6 +247,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .gye{
     height:10px;
+    width:5%;
 }
 /*-------Estilos responsive-------*/
 @media screen and (min-width:480px){
