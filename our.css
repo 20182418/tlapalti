@@ -245,6 +245,9 @@ h1,h2,h3,h4,h5,h6{
     width: 30px;
     margin-top: 5px;
 }
+.gye{
+    height:10px;
+}
 /*-------Estilos responsive-------*/
 @media screen and (min-width:480px){
     .logo{
