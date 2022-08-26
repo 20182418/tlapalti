@@ -206,6 +206,7 @@ h1,h2,h3,h4,h5,h6{
     width: 40%;
 }
 .today-special__title{
+    font-family: 'Oswald',sans-serif;
     text-align:center;
     font-size: 1.3em;
     padding-top: 10px;
@@ -272,9 +273,11 @@ h1,h2,h3,h4,h5,h6{
         width: 38.5%;
     }
     .column--50-25{
+         font-family: 'Oswald',sans-serif;
         width: 49%;
     }
     .column--50-25_{
+        
         width: 49%;
     }
     .column--33{
