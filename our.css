@@ -241,8 +241,8 @@ h1,h2,h3,h4,h5,h6{
     right: 5px;
 }
 .nav-logo{
-    width: 40px;
-    margin-top: 6px;
+    width: 30px;
+    margin-top: 5px;
 }
 /*-------Estilos responsive-------*/
 @media screen and (min-width:480px){
