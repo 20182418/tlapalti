@@ -249,13 +249,14 @@ h1,h2,h3,h4,h5,h6{
     right: 5px;
 }
 .nav-logo{
+    right: 5px;
     width: 30px;
     margin-top: 5px;
 }
 .gye{
-    height:500px;
-    width:400%;
-    height: 800px;
+    left: 15px;
+    width: 300%;
+    height: 700px;
 }
 /*-------Estilos responsive-------*/
 @media screen and (min-width:480px){
