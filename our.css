@@ -249,14 +249,13 @@ h1,h2,h3,h4,h5,h6{
     right: 5px;
 }
 .nav-logo{
-    right: 5px;
     width: 30px;
     margin-top: 5px;
 }
 .gye{
-    left: 15px;
-    width: 300%;
-    height: 700px;
+    height:500px;
+    width:400%;
+    height: 800px;
 }
 /*-------Estilos responsive-------*/
 @media screen and (min-width:480px){
@@ -309,9 +308,9 @@ h1,h2,h3,h4,h5,h6{
         padding: 5px;
     }
     .today-special__img{
-        height: 160px;
+        height: 140px;
         object-fit: cover;
-        width: 30%;
+        width: 20%;
     }
 }
 @media screen and (min-width:768px) {
