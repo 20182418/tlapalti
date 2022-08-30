@@ -212,6 +212,13 @@ h1,h2,h3,h4,h5,h6{
     padding-top: 10px;
     padding-bottom: 20px;
 }
+.today-special__title1{
+    font-family: 'Oswald',sans-serif;
+    text-align:center;
+    font-size: 1.3em;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
 .today-special__price {
     font-size: 1em;
     color:black;
