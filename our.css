@@ -307,9 +307,9 @@ h1,h2,h3,h4,h5,h6{
         padding: 5px;
     }
     .today-special__img{
-        height: 190px;
+        height: 160px;
         object-fit: cover;
-        width: 49%;
+        width: 30%;
     }
 }
 @media screen and (min-width:768px) {
