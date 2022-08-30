@@ -208,7 +208,7 @@ h1,h2,h3,h4,h5,h6{
 .today-special__title{
     font-family: 'Oswald',sans-serif;
     text-align:center;
-    font-size: 1.3em;
+    font-size: .8em;
     padding-top: 10px;
     padding-bottom: 20px;
 }
@@ -373,7 +373,7 @@ h1,h2,h3,h4,h5,h6{
             text-decoration:none;
         }
         .today-special__title{
-            font-size: 1.4em;
+            font-size: .8em;
         }
         .today-special__price{
             font-size: 1.8em ;
