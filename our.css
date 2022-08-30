@@ -317,6 +317,7 @@ h1,h2,h3,h4,h5,h6{
     }
     .main__about__description .column--50:nth-child(2) .column__txt{
         line-height: 30px;
+        text-decoration:none;
     }
     .column--50-25{
         width: 24.5%;
@@ -369,6 +370,7 @@ h1,h2,h3,h4,h5,h6{
         }
         .main__about__description .column--50:nth-child(2) .column__txt{
             line-height: 45px;
+            text-decoration:none;
         }
         .today-special__title{
             font-size: 1.4em;
