@@ -230,8 +230,9 @@ font-family: 'Oswald',sans-serif;
 }
 .today-special__price {
     font-size: 1.1em;
-    color:black;
+    color:grey;
     font-weight: bold;
+    font-family: 'Garamond';
 
 }
 /*-------Estilos del footer-------*/
