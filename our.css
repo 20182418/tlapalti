@@ -68,6 +68,10 @@ font-family: 'Oswald',sans-serif;
     z-index:2000;
     padding: 10px;
 }
+
+.icon-location{
+       font-family:'Optima';
+    }
 .icon-menu{
     display: block;
     color: white;
