@@ -218,7 +218,7 @@ font-family: 'Oswald',sans-serif;
 .today-special__title{
     font-family: 'Oswald',sans-serif;
     text-align:center;
-    font-size: 1.1em;
+    font-size: 1.6em;
     padding-top: 10px;
     padding-bottom: 20px;
 }
@@ -230,7 +230,7 @@ font-family: 'Oswald',sans-serif;
     padding-bottom: 20px;
 }
 .today-special__price {
-    font-size: 1.1em;
+    font-size: 1.6em;
     color:grey;
     font-weight: bold;
     font-family: 'Garamond';
